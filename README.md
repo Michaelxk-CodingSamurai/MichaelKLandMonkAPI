@@ -1,13 +1,14 @@
 # LandMonkAPI
 
-## Installation
+## About
+* LandMonk is a property management software that empowers landlords to self-manage their rental homes and apartments.
 
-1. Use `landmonkdb.sql` to create MySQL database.
-1. Use `initializedb/initializeLandMonk.sql` to populate database.
-1. In `LandMonkAPI/LandMonkServer/appsettings.json`, set the connection string to your database. (**STUDENTS:** Remove your password from this file before uploading)
-1. In `LandMonkAPI/LandMonkServer/nlog.config`, set `internalLogFile` and `fileName` to your own file paths. (**STUDENTS:** Remove your file paths from this file before uploading)
-1. Run server.
+## My Developer Role
+* Created the database with CRUD functions using MySQL and .NET by contributing the following:
+* 1. Set up the .NET Core Service Configuration in order to register different services
+* 2. Created the LoggerService using NLog and in order to populate the Logging Messages 
+* 3. Created Tenant Repository in order to implement functions GetAll, GetById, Create, Delete, and Update
+* 4. Created the Tenant Interface in order to enforce the requirements for functions within the Tenant Repository
+* 5. Set up the HTTP requests inside the Tenant Controller and created GetAll, GetById, Post, Put, and Delete methods using Postman
 
-The front-end application is in my `LandMonkClient` repository.
-
-**STUDENTS:** Remove the Html-files folder from the root directory.
+The front-end application is in my `MichaelKLandMonkClient` repository.
