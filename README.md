@@ -12,3 +12,18 @@
 * 5. Set up the HTTP requests inside the Tenant Controller and created GetAll, GetById, Post, Put, and Delete methods using Postman
 
 The front-end application is in my `MichaelKLandMonkClient` repository.
+
+##Startup-Configuration
+![Startup-Configuration](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/Startup-Configuration.png?raw=true)
+
+##Tenant-Model
+![Tenant-Model](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/Tenant-Model.png?raw=true)
+
+##ITenant-Repository
+![ITenant-Repository](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/ITenantRepository.png?raw=true)
+
+##Tenant-Repository
+![Tenant-Repository](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/Tenant-Repository.png?raw=true)
+
+##Tenant-Controller
+![Tenant-Controller](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/Tenant-Controller.png?raw=true)
