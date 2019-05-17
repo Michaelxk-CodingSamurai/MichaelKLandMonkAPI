@@ -14,7 +14,7 @@
 The front-end application is in my `MichaelKLandMonkClient` repository.
 
 ##Startup-Configuration
-![Startup-Configuration](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/Startup-Configuration.png?raw=true)
+![Startup-Configuration](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/Startup-Configuration.png?raw=true "Title")
 
 ##Tenant-Model
 ![Tenant-Model](https://github.com/Michaelxk-CodingSamurai/MichaelKLandMonkAPI/blob/master/Tenant-Model.png?raw=true)
